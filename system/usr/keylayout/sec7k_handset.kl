@@ -1,0 +1,6 @@
+key 226   HEADSETHOOK       WAKE
+key 116   POWER             WAKE
+key 107   POWER             WAKE
+key 115   VOLUME_UP         WAKE_DROPPED
+key 114   VOLUME_DOWN       WAKE_DROPPED
+key 248   EARJACK_PRE_CONNECTED       WAKE_DROPPED
